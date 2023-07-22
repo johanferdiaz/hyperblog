@@ -15,5 +15,5 @@ UN BLOG INCREÍBLE PARA EL[ CURSO DE GIT Y GITHUB](HTTPS://PLATZI.COM/CURSOS/GIT
 * Disponible para todas las edades
 * Creado por el increible platzi team
 * Incluyen ejemplos en windows, linux y Mac
-
+* Disponible para todas las edades 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
