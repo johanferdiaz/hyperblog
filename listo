@@ -1,0 +1,24 @@
+[1mdiff --git a/historia.txt.txt b/historia.txt.txt[m
+[1mdeleted file mode 100644[m
+[1mindex 56892ef..0000000[m
+[1m--- a/historia.txt.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1,6 +0,0 @@[m
+[31m-1==Es un recurso fundamental para transmitir valores tanto en la educación formal como en la crianza de hijos e hijas.[m
+[31m-[m
+[31m-2==Ayuda a memorizar conceptos importantes engarzándolos en una narración (aquello que participa en una historia es más fácil de recordar [m
+[31m-[m
+[31m-3=que aquello que es descrito de manera abstracta y de una manera desligada de un contexto).[m
+[31m-Permite mantener vivas tradiciones que enriquecen el panorama cultural del país.[m
+\ No newline at end of file[m
+[1mdiff --git a/historias.txt b/historias.txt[m
+[1mindex 56892ef..e4ca3c8 100644[m
+[1m--- a/historias.txt[m
+[1m+++ b/historias.txt[m
+[36m@@ -1,5 +1,5 @@[m
+ 1==Es un recurso fundamental para transmitir valores tanto en la educación formal como en la crianza de hijos e hijas.[m
+[31m-[m
+[32m+[m[32mtengo 30 AÑO[m
+ 2==Ayuda a memorizar conceptos importantes engarzándolos en una narración (aquello que participa en una historia es más fácil de recordar [m
+ [m
+ 3=que aquello que es descrito de manera abstracta y de una manera desligada de un contexto).[m
